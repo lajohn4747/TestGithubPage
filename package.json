@@ -1,0 +1,11 @@
+{
+  "name": "test-github-page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo 'No build step defined'"
+  },
+  "author": "",
+  "license": "MIT"
+}
